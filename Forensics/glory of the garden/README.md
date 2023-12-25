@@ -10,16 +10,23 @@ This [garden](https://jupiter.challenges.picoctf.org/static/4153422e18d40363e7ff
 wget https://jupiter.challenges.picoctf.org/static/4153422e18d40363e7ffc7e15a108683/garden.jpg
 ```
 
+![alt text](https://github.com/rahardian-dwi-saputra/picoCTF-writeup/blob/main/Forensics/glory%20of%20the%20garden/assets/garden%201.JPG)
+
 - Gunakan tool `strings` untuk menampilkan string yang terdapat dalam gambar. Pada bagian paling bawah terdapat informasi flag
 ```sh
 strings garden.jpg
 ```
+
+![alt text](https://github.com/rahardian-dwi-saputra/picoCTF-writeup/blob/main/Forensics/glory%20of%20the%20garden/assets/garden%202.JPG)
+
+![alt text](https://github.com/rahardian-dwi-saputra/picoCTF-writeup/blob/main/Forensics/glory%20of%20the%20garden/assets/garden%203.JPG)
 
 - Kita bisa menyeleksi string tersebut dengan perintah berikut
 ```sh
 strings garden.jpg | grep -oE picoCTF{.*}
 ```
 
+![alt text](https://github.com/rahardian-dwi-saputra/picoCTF-writeup/blob/main/Forensics/glory%20of%20the%20garden/assets/garden%204.JPG)
 
 - Flag
 ```sh
