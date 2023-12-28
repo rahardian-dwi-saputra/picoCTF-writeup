@@ -10,11 +10,14 @@ This file has a flag in plain sight (aka "in-the-clear"). [Download flag.](https
 wget https://mercury.picoctf.net/static/fb851c1858cc762bd4eed569013d7f00/flag
 ```
 
+![alt text](https://github.com/rahardian-dwi-saputra/picoCTF-writeup/blob/main/General%20Skills/obedient%20cat/assets/obedient%20cat%201.JPG)
+
 - Tampilkan isi file `flag`
 ```sh
 cat flag
 ```
 
+![alt text](https://github.com/rahardian-dwi-saputra/picoCTF-writeup/blob/main/General%20Skills/obedient%20cat/assets/obedient%20cat%202.JPG)
 
 - Flag
 ```sh
