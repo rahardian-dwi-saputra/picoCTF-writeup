@@ -10,6 +10,8 @@ Using netcat (nc) is going to be pretty important. Can you connect to `jupiter.c
 nc jupiter.challenges.picoctf.org 41120
 ```
 
+![alt text](https://github.com/rahardian-dwi-saputra/picoCTF-writeup/blob/main/General%20Skills/whats%20a%20net%20cat/assets/nc%201.JPG)
+
 - Flag
 ```sh
 picoCTF{nEtCat_Mast3ry_3214be47}

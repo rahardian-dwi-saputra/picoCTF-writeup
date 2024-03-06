@@ -10,11 +10,14 @@ Using tabcomplete in the Terminal will add years to your life, esp. when dealing
 wget https://mercury.picoctf.net/static/3afd18a65e42b80526aa87f9766c588b/Addadshashanammu.zip
 ```
 
+![alt text](https://github.com/rahardian-dwi-saputra/picoCTF-writeup/blob/main/General%20Skills/Tab%20Tab%20Attack/assets/tab%20tab%201.JPG)
 
 - Unzip file `Addadshashanammu.zip`
 ```sh
 unzip Addadshashanammu.zip
 ```
+
+![alt text](https://github.com/rahardian-dwi-saputra/picoCTF-writeup/blob/main/General%20Skills/Tab%20Tab%20Attack/assets/tab%20tab%202.JPG)
 
 - Setelah proses ekstrak berhasil terdapat file binary `fang-of-haynekhtnamet` yang berada di dalam path folder `Addadshashanammu/Almurbalarammi/Ashalmimilkala/Assurnabitashpi/Maelkashishi/Onnissiralis/Ularradallaku`
 - Sekarang kita coba eksekusi file binary tersebut dan kita berhasil mendapatkan
@@ -22,6 +25,7 @@ unzip Addadshashanammu.zip
 ./Addadshashanammu/Almurbalarammi/Ashalmimilkala/Assurnabitashpi/Maelkashishi/Onnissiralis/Ularradallaku/fang-of-haynekhtnamet
 ```
 
+![alt text](https://github.com/rahardian-dwi-saputra/picoCTF-writeup/blob/main/General%20Skills/Tab%20Tab%20Attack/assets/tab%20tab%203.JPG)
 
 - Flag
 ```sh
