@@ -10,6 +10,8 @@ What does this `bDNhcm5fdGgzX3IwcDM1` mean? I think it has something to do with 
 echo 'bDNhcm5fdGgzX3IwcDM1' | base64 -d
 ```
 
+![alt text](https://github.com/rahardian-dwi-saputra/picoCTF-writeup/blob/main/General%20Skills/Bases/assets/bases%201.JPG)
+
 - Sekarang kita tinggal memasukkan hasil encode tersebut kedalam flag
 - Flag
 ```sh

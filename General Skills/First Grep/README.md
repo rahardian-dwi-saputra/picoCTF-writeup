@@ -10,15 +10,21 @@ Can you find the flag in [file](https://jupiter.challenges.picoctf.org/static/51
 wget https://jupiter.challenges.picoctf.org/static/515f19f3612bfd97cd3f0c0ba32bd864/file
 ```
 
+![alt text](https://github.com/rahardian-dwi-saputra/picoCTF-writeup/blob/main/General%20Skills/First%20Grep/assets/first%20grep%201.JPG)
+
 - Setelah berhasil diunduh, file tersebut berisi ASCII dan terdiri dari 4200 baris
 ```sh
 file file
 ```
 
+![alt text](https://github.com/rahardian-dwi-saputra/picoCTF-writeup/blob/main/General%20Skills/First%20Grep/assets/first%20grep%202.JPG)
+
 - Karena isi file yang begitu panjang, kita perlu menbaca isi file lalu memfilternya untuk mencari flag
 ```sh
 cat file | grep pico 
 ```
+
+![alt text](https://github.com/rahardian-dwi-saputra/picoCTF-writeup/blob/main/General%20Skills/First%20Grep/assets/first%20grep%203.JPG)
 
 - Flag
 ```sh
