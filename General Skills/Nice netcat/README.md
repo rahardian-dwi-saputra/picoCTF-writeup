@@ -10,6 +10,8 @@ There is a nice program that you can talk to by using this command in a shell: `
 nc mercury.picoctf.net 22902
 ```
 
+![alt text](https://github.com/rahardian-dwi-saputra/picoCTF-writeup/blob/main/General%20Skills/Nice%20netcat/assets/nice%20netcat%201.JPG)
+
 - Setelah dijalankan, muncul bilangan desimal sebagai berikut
 ```sh
 112 
@@ -57,6 +59,8 @@ nc mercury.picoctf.net 22902
 ```
 
 - Konversi bilangan desimal diatas ke ASCII melalui link https://onlinetools.com/ascii/convert-decimal-to-ascii
+
+![alt text](https://github.com/rahardian-dwi-saputra/picoCTF-writeup/blob/main/General%20Skills/Nice%20netcat/assets/nice%20netcat%202.JPG)
 
 - Flag
 ```sh
