@@ -11,10 +11,14 @@ Download the password checker [here](https://artifacts.picoctf.net/c/10/level1.p
 wget https://artifacts.picoctf.net/c/10/level1.py
 ```
 
+![alt text](https://github.com/rahardian-dwi-saputra/picoCTF-writeup/blob/main/General%20Skills/PW%20Crack%201/assets/pw%20crack%201.JPG)
+
 - Unduh flag yang terenkripsi
 ```sh
 wget https://artifacts.picoctf.net/c/10/level1.flag.txt.enc
 ```
+
+![alt text](https://github.com/rahardian-dwi-saputra/picoCTF-writeup/blob/main/General%20Skills/PW%20Crack%201/assets/pw%20crack%202.JPG)
 
 - Gunakan text editor seperti mousepad untuk membuka script `level1.py`. Disini tertulis bahwa bahwa password untuk mendekrip flag adalah `691d`
 ```sh
@@ -52,6 +56,7 @@ level_1_pw_check()
 python3 level1.py
 ```
 
+![alt text](https://github.com/rahardian-dwi-saputra/picoCTF-writeup/blob/main/General%20Skills/PW%20Crack%201/assets/pw%20crack%203.JPG)
 
 - Flag
 ```sh

@@ -11,10 +11,14 @@ Download the password checker [here](https://artifacts.picoctf.net/c/15/level2.p
 wget https://artifacts.picoctf.net/c/15/level2.py
 ```
 
+![alt text](https://github.com/rahardian-dwi-saputra/picoCTF-writeup/blob/main/General%20Skills/PW%20Crack%202/assets/pw%20crack%201.JPG)
+
 - Unduh flag yang terenkripsi
 ```sh
 wget https://artifacts.picoctf.net/c/15/level2.flag.txt.enc
 ```
+
+![alt text](https://github.com/rahardian-dwi-saputra/picoCTF-writeup/blob/main/General%20Skills/PW%20Crack%202/assets/pw%20crack%202.JPG)
 
 - Gunakan text editor seperti mousepad untuk membuka script `level1.py`. Disini kita perlu menambahkan 2 baris program untuk mengetahui password yang digunakan. Ubah script `level2.py` menjadi sebagai berikut
 ```sh
@@ -53,6 +57,7 @@ level_2_pw_check()
 python3 level2.py
 ```
 
+![alt text](https://github.com/rahardian-dwi-saputra/picoCTF-writeup/blob/main/General%20Skills/PW%20Crack%202/assets/pw%20crack%203.JPG)
 
 - Flag
 ```sh
