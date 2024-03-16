@@ -11,6 +11,8 @@ Fix the syntax error in this Python script to print the flag.
 wget https://artifacts.picoctf.net/c/27/fixme1.py
 ```
 
+![alt text](https://github.com/rahardian-dwi-saputra/picoCTF-writeup/blob/main/General%20Skills/fixme1.py/assets/fixme%201.JPG)
+
 - Gunakan text editor seperti mousepad untuk mengedit script. Hilangkan tanda spasi pada baris program terakhir lalu simpan perubahannya
 ```sh
 
@@ -38,6 +40,8 @@ print('That is correct! Here\'s your flag: ' + flag)
 ```sh
 python3 fixme1.py
 ```
+
+![alt text](https://github.com/rahardian-dwi-saputra/picoCTF-writeup/blob/main/General%20Skills/fixme1.py/assets/fixme%202.JPG)
 
 - Flag
 ```sh

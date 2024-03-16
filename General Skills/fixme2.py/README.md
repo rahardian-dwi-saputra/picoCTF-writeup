@@ -11,6 +11,8 @@ Fix the syntax error in the Python script to print the flag.
 wget https://artifacts.picoctf.net/c/4/fixme2.py
 ```
 
+![alt text](https://github.com/rahardian-dwi-saputra/picoCTF-writeup/blob/main/General%20Skills/fixme2.py/assets/fixme%201.JPG)
+
 - Gunakan text editor seperti mousepad untuk mengedit script. Ubah tanda `=` menjadi `==` pada baris program lalu simpan perubahannya
 ```sh
 
@@ -46,6 +48,8 @@ else:
 ```sh
 python3 fixme2.py
 ```
+
+![alt text](https://github.com/rahardian-dwi-saputra/picoCTF-writeup/blob/main/General%20Skills/fixme2.py/assets/fixme%202.JPG)
 
 - Flag
 ```sh
