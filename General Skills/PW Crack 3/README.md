@@ -12,18 +12,21 @@ There are 7 potential passwords with 1 being correct. You can find these by exam
 wget https://artifacts.picoctf.net/c/16/level3.py
 ```
 
+![alt text](https://github.com/rahardian-dwi-saputra/picoCTF-writeup/blob/main/General%20Skills/PW%20Crack%203/assets/pw%20crack%201.JPG)
 
 - Unduh flag yang terenkripsi
 ```sh
 wget https://artifacts.picoctf.net/c/16/level3.flag.txt.enc
 ```
 
+![alt text](https://github.com/rahardian-dwi-saputra/picoCTF-writeup/blob/main/General%20Skills/PW%20Crack%203/assets/pw%20crack%202.JPG)
 
 - Unduh hash
 ```sh
 wget https://artifacts.picoctf.net/c/16/level3.hash.bin
 ```
 
+![alt text](https://github.com/rahardian-dwi-saputra/picoCTF-writeup/blob/main/General%20Skills/PW%20Crack%203/assets/pw%20crack%203.JPG)
 
 - Gunakan text editor seperti mousepad untuk membuka script `level3.py`. Disini kita menambahkan function baru untuk melakukan brute force dan menemukan password yang cocok untuk mendekrip flag. Kemudian memindahkan pemanggilan function password check ke baris paling akhir setelah melakukan brute force. Ubah script `level3.py` menjadi sebagai berikut
 ```sh
@@ -87,6 +90,8 @@ level_3_pw_check()
 ```sh
 python3 level3.py
 ```
+
+![alt text](https://github.com/rahardian-dwi-saputra/picoCTF-writeup/blob/main/General%20Skills/PW%20Crack%203/assets/pw%20crack%204.JPG)
 
 - Flag
 ```sh
