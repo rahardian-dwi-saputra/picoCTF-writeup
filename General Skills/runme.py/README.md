@@ -11,10 +11,14 @@ Run the `runme.py` script to get the flag. Download the script with your browser
 wget https://artifacts.picoctf.net/c/34/runme.py
 ```
 
+![alt text](https://github.com/rahardian-dwi-saputra/picoCTF-writeup/blob/main/General%20Skills/runme.py/assets/runme%201.JPG)
+
 - Jalankan script `runme.py`
 ```sh
 wget https://artifacts.picoctf.net/c/34/runme.py
 ```
+
+![alt text](https://github.com/rahardian-dwi-saputra/picoCTF-writeup/blob/main/General%20Skills/runme.py/assets/runme%202.JPG)
 
 - Flag
 ```sh

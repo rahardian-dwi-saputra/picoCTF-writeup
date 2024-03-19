@@ -11,7 +11,7 @@ Find the flag in the Python script!
 wget https://artifacts.picoctf.net/c/35/serpentine.py
 ```
 
-
+![alt text](https://github.com/rahardian-dwi-saputra/picoCTF-writeup/blob/main/General%20Skills/Serpentine/assets/serpentine%201.JPG)
 
 - Gunakan text editor seperti mousepad untuk membuka script `serpentine.py`. Ubah script `serpentine.py` menjadi sebagai berikut 
 ```sh
@@ -103,7 +103,7 @@ if __name__ == "__main__":
 python3 serpentine.py
 ```
 
-
+![alt text](https://github.com/rahardian-dwi-saputra/picoCTF-writeup/blob/main/General%20Skills/Serpentine/assets/serpentine%202.JPG)
 
 - Flag
 ```sh
