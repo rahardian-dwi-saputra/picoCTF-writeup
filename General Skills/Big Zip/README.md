@@ -11,16 +11,21 @@ Unzip this archive and find the flag.
 wget https://artifacts.picoctf.net/c/504/big-zip-files.zip
 ```
 
+![alt text](https://github.com/rahardian-dwi-saputra/picoCTF-writeup/blob/main/General%20Skills/Big%20Zip/assets/big%20zip%201.JPG)
 
 - Ekstrak file zip yang sudah diunduh
 ```sh
 unzip big-zip-files.zip
 ```
 
+![alt text](https://github.com/rahardian-dwi-saputra/picoCTF-writeup/blob/main/General%20Skills/Big%20Zip/assets/big%20zip%202.JPG)
+
 - Sekarang kita cari flag menggunakan `grep`
 ```sh
 grep -r pico big-zip-files 
 ```
+
+![alt text](https://github.com/rahardian-dwi-saputra/picoCTF-writeup/blob/main/General%20Skills/Big%20Zip/assets/big%20zip%203.JPG)
 
 - Flag
 ```sh
