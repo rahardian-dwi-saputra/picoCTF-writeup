@@ -10,6 +10,8 @@ To get truly 1337, you must understand different data encodings, such as hexadec
 nc jupiter.challenges.picoctf.org 29956
 ```
 
+![alt text](https://github.com/rahardian-dwi-saputra/picoCTF-writeup/blob/main/General%20Skills/Based/assets/based%201.JPG)
+
 - Setelah dijalankan akan muncul beberapa soal untuk mengkonversi bilangan ke string (word). Soal pertama adalah konversi bilangan biner ke string, soal kedua adalah konversi bilangan oktal ke string dan soal terakhir adalah konversi bilangan heksa ke string. Anda bisa menggunakan tool Cyber Chef https://gchq.github.io/CyberChef/ untuk menyelesaikan soal diatas
 - Flag
 ```sh
