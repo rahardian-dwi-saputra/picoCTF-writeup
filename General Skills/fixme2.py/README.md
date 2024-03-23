@@ -1,5 +1,5 @@
 # fixme2.py
-- Link: https://play.picoctf.org/practice/challenge/67?category=5&page=2
+- Link: https://play.picoctf.org/practice/challenge/241?category=5&page=2
 
 ## Tantangan
 Fix the syntax error in the Python script to print the flag.
