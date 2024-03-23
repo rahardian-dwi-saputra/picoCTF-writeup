@@ -9,8 +9,11 @@ Your friend just got hacked and has been asked to pay some bitcoins to `1Mz7153H
 ## Penyelesaian
 - Kita bisa menelusuri alamat bitcoin diatas menggunakan google
 
+![alt text](https://github.com/rahardian-dwi-saputra/picoCTF-writeup/blob/main/General%20Skills/money-ware/assets/money%20ware%201.JPG)
+
 - Setelah membuka link ( https://www.cnbc.com/2017/06/28/ransomware-cyberattack-petya-bitcoin-payment.html ) dari hasil pencarian diatas, disini disebutkan bahwa nama malwarenya adalah `petya`
 
+![alt text](https://github.com/rahardian-dwi-saputra/picoCTF-writeup/blob/main/General%20Skills/money-ware/assets/money%20ware%202.JPG)
 
 - Flag
 ```sh

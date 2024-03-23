@@ -11,10 +11,14 @@ Download the file [here](https://artifacts.picoctf.net/c/474/enc_flag).
 wget https://artifacts.picoctf.net/c/474/enc_flag
 ```
 
+![alt text](https://github.com/rahardian-dwi-saputra/picoCTF-writeup/blob/main/General%20Skills/repetitions/assets/repetitions%201.JPG)
+
 - Buka isi file `enc_flag`
 ```sh
 cat enc_flag
 ```
+
+![alt text](https://github.com/rahardian-dwi-saputra/picoCTF-writeup/blob/main/General%20Skills/repetitions/assets/repetitions%202.JPG)
 
 - Setelah dibuka, file tersebut berisi string yang terencode dengan base64. Setelah didecode, string tersebut masih berupa encode base64. Jadi kita harus mengdecode beberapa kali hingga menemukan flag
 - Simpan code dibawah ini dengan nama file `repetitions.py`
@@ -41,6 +45,7 @@ while True:
 python3 repetitions.py
 ```
 
+![alt text](https://github.com/rahardian-dwi-saputra/picoCTF-writeup/blob/main/General%20Skills/repetitions/assets/repetitions%203.JPG)
 
 - Flag
 ```sh
