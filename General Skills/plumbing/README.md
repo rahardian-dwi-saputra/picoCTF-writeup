@@ -10,10 +10,14 @@ Sometimes you need to handle process data outside of a file. Can you find a way 
 nc jupiter.challenges.picoctf.org 4427
 ```
 
+![alt text](https://github.com/rahardian-dwi-saputra/picoCTF-writeup/blob/main/General%20Skills/plumbing/assets/plumbing%201.JPG)
+
 - Disini banyak string yang muncul, untuk mencari flag kita perlu menambahkan perintah untuk memfilter output tersebut dan menemukan flag sehingga kita ubah perintahnya menjadi sebagai berikut
 ```sh
 nc jupiter.challenges.picoctf.org 4427 | grep pico
 ```
+
+![alt text](https://github.com/rahardian-dwi-saputra/picoCTF-writeup/blob/main/General%20Skills/plumbing/assets/plumbing%202.JPG)
 
 - Flag
 ```sh

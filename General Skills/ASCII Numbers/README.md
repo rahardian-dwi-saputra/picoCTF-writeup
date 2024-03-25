@@ -8,12 +8,15 @@ Convert the following string of ASCII numbers into a readable string:
 ## Penyelesaian
 - String diatas merupakan kumpulan bilangan heksa yang harus diconvert ke dalam teks (ASCII). Buka tool Cyber Chef https://gchq.github.io/CyberChef/
 
+![alt text](https://github.com/rahardian-dwi-saputra/picoCTF-writeup/blob/main/General%20Skills/ASCII%20Numbers/assets/ascii%20numbers%201.JPG)
 
 - Klik **From Hex** lalu drag dan drop di kolom **Recipe**
 
+![alt text](https://github.com/rahardian-dwi-saputra/picoCTF-writeup/blob/main/General%20Skills/ASCII%20Numbers/assets/ascii%20numbers%202.jpg)
 
 - Copy string pada soal diatas lalu paste di kolom **Input**
 
+![alt text](https://github.com/rahardian-dwi-saputra/picoCTF-writeup/blob/main/General%20Skills/ASCII%20Numbers/assets/ascii%20numbers%203.JPG)
 
 - Flag
 ```sh
