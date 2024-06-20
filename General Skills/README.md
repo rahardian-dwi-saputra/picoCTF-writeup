@@ -1,0 +1,55 @@
+# Topik
+- Download file
+	- [Obedient Cat](obedient%20cat)
+- Python programming
+	- [Python Wrangling](python%20wrangling)
+	- [Codebook](Codebook)
+	- [fixme1.py](fixme1.py)
+	- [fixme2.py](fixme2.py)
+	- [Glitch Cat](Glitch%20Cat)
+	- [PW Crack 1](PW%20Crack%201)
+	- [PW Crack 2](PW%20Crack%202)
+	- [PW Crack 3](PW%20Crack%203)
+	- [PW Crack 4](PW%20Crack%204)
+	- [PW Crack 5](PW%20Crack%205)
+	- [runme.py](runme.py)
+	- [Serpentine](Serpentine)
+- Binary program
+	- [Wave a flag](wave%20a%20flag)
+	- [Tab, Tab, Attack](Tab%20Tab%20Attack)
+- Number conversion
+	- [Nice netcat...](Nice%20netcat)
+	- [Lets Warm Up](Lets%20Warm%20Up)
+	- [Warmed Up](Warmed%20Up)
+	- [2Warm](2Warm)
+	- [convertme.py](convertme.py)
+	- [ASCII Numbers](ASCII%20Numbers)
+	- [Based](Based)
+- Bash Script
+	- [Static ain't always noise](static%20aint%20always%20noise)
+- File and directory
+	- [Magikarp Ground Mission](Magikarp%20Ground%20Mission)
+- Netcat
+	- [what's a net cat?](whats%20a%20net%20cat)
+- Strings
+	- [strings it](strings%20it)
+- Base64 decoding
+	- [Bases](Bases)
+	- [repetitions](repetitions)
+- Search Content
+	- [First Grep](First%20Grep)
+	- [First Find](First%20Find)
+	- [Big Zip](Big%20Zip)
+	- [plumbing](plumbing)
+- Hash
+	- [HashingJobApp](HashingJobApp)
+- Automate task
+	- [chrono](chrono)
+- Ohsint
+	- [money-ware](money-ware)
+- Privilage Escalation
+	- [Permissions](Permissions)
+- User manual
+	- [useless](useless)
+- Rockstar Language
+	- [mus1c](mus1c)
